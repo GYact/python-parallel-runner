@@ -58,7 +58,7 @@
     "webpack-cli": "^5.1.4"
   },
   "repository": {
-        "type": "git",
-        "url": "https://github.com/GYact/python-parallel-runner.git"
+    "type": "git",
+    "url": "https://github.com/GYact/python-parallel-runner.git"
   }
 }
